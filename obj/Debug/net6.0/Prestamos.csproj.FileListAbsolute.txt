@@ -1,0 +1,15 @@
+C:\Users\edwin\source\repos\Prestamos\bin\Debug\net6.0\Prestamos.exe
+C:\Users\edwin\source\repos\Prestamos\bin\Debug\net6.0\Prestamos.deps.json
+C:\Users\edwin\source\repos\Prestamos\bin\Debug\net6.0\Prestamos.runtimeconfig.json
+C:\Users\edwin\source\repos\Prestamos\bin\Debug\net6.0\Prestamos.dll
+C:\Users\edwin\source\repos\Prestamos\bin\Debug\net6.0\Prestamos.pdb
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.AssemblyInfo.cs
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.dll
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\refint\Prestamos.dll
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.pdb
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\Prestamos.genruntimeconfig.cache
+C:\Users\edwin\source\repos\Prestamos\obj\Debug\net6.0\ref\Prestamos.dll
